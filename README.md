@@ -5,6 +5,7 @@ I'm Matthew, an undergraduate student at UC San Diego interested in Game Develop
 - 📄 I’m currently working on ...
 - 🧠 I’m currently learning Java and Lua
 - 🤝 I’m looking to collaborate on projects that combine creativity and code — especially in game design, web apps, or AI tools.
+  - Send me an email: maharber@ucsd.edu
 
 <!--
 **Craz33matt/Craz33matt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
