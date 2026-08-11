@@ -1,4 +1,4 @@
-## Hello 👋
+## Welcome
 
 I'm Matthew, an undergraduate student at UC San Diego interested in Game Development and Web Development.
 
