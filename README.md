@@ -3,7 +3,7 @@
 I'm Matthew, an undergraduate student at UC San Diego interested in Game Development and Web Development.
 
 - 📄 I’m currently working on finding ways to improve latency optimization with high polling
-- 🧠 I’m currently learning Assembly, C, C#, Lua
+- 🧠 I’m currently learning C++, C#, React
 - 🤝 I’m looking to collaborate on projects that combine creativity and code — especially in game design, web apps, or AI tools.
   - Send me an email: maharber@ucsd.edu
 
